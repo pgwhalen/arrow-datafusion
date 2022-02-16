@@ -50,7 +50,7 @@ A quarterly roadmap will be published to give the DataFusion community visibilit
 
 - Begin work on design documents and plan / priorities for development
 
-### Extensions ([datafusion-contrib](https://github.com/datafusion-contrib]))
+### Extensions ([datafusion-contrib](https://github.com/datafusion-contrib))
 
 - Stable S3 support
 - Begin design discussions and prototyping of a stream provider
